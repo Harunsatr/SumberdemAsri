@@ -114,12 +114,12 @@ const HeroSection: React.FC = () => {
         >
         <FallInPlace delay={0.8}>
           <ButtonGroup spacing={4} alignItems="center" mt={6}>
-          <ButtonLink colorScheme="blue" size="lg" href="/signup">
+          <ButtonLink colorScheme="blue" size="lg" href="/produk">
             Lihat Produk
           </ButtonLink>
           <ButtonLink
             size="lg"
-            href="https://demo.saas-ui.dev"
+            href="/https://www.djalanin.com/destination/kampoeng-kopi-sumberdem"
             variant="outline"
             rightIcon={
             <Icon
@@ -222,7 +222,7 @@ const HighlightsSection = () => {
             kreativitas masyarakat, serta potensi lokal. Setiap acara menjadi momen kebersamaan yang 
             mempererat warga sekaligus memperkenalkan pesona Sumberdem kepada pengunjung.
             </Text>
-            <ButtonLink colorScheme="blue" size="md" href="/events" mt={1}>
+            <ButtonLink colorScheme="blue" size="md" href="/https://sumberdem-malangkab.desa.id" mt={1}>
             Lihat Event Lengkap
             </ButtonLink>
 
@@ -233,7 +233,7 @@ const HighlightsSection = () => {
         UMKM Sumberdem Asri Produk lokal berkualitas, cita rasa khas, dan 
         karya kreatif masyarakat desa untuk mendukung ekonomi mandiri.
         </Text>
-            <ButtonLink colorScheme="blue" size="md" href="/events" mt={10}>
+            <ButtonLink colorScheme="blue" size="md" href="/produk" mt={10}>
               Lihat UMKM
             </ButtonLink>
       </HighlightsItem>

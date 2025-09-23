@@ -7,7 +7,7 @@ export default {
       avatar: '/static/images/KampungKopi.png',
       imageSrc: '/static/images/KampungKopi.png', // gambar tambahan
         action: {
-          href: '/detail/kampung-kopi',
+          href: '/kampung',
           label: 'Lihat Selengkapnya',
       },
       children: (
@@ -25,7 +25,7 @@ export default {
       avatar: '/static/images/KampungLemon.png',
       imageSrc: '/static/images/KampungLemon.png',
         action: {
-          href: '/detail/kampung-kopi',
+          href: '/kampung',
           label: 'Lihat Selengkapnya',
       },
       children: (
@@ -40,7 +40,7 @@ export default {
       avatar: '/static/images/KampungTernak.png',
       imageSrc: '/static/images/KampungTernak.png',
         action: {
-          href: '/detail/kampung-kopi',
+          href: '/kampung',
           label: 'Lihat Selengkapnya',
       },
       children: (

@@ -17,7 +17,7 @@ export default {
         },
       ],
       action: {
-        href: '#',
+        href: 'https://sumberdem-malangkab.desa.id',
       },
     },
     {
@@ -32,7 +32,7 @@ export default {
         },
       ],
       action: {
-        href: 'https://appulse.gumroad.com/l/saas-ui-pro-pre-order?variant=Single%20license',
+        href: 'https://sumberdem-malangkab.desa.id',
       },
     },
     {
@@ -46,7 +46,7 @@ export default {
         },
       ],
       action: {
-        href: 'https://appulse.gumroad.com/l/saas-ui-pro-pre-order?variant=Unlimited%20license',
+        href: 'https://sumberdem-malangkab.desa.id',
       },
     },
   ],
