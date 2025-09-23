@@ -86,7 +86,7 @@ export default function Page() {
             {/* Section Pertama */}
             <Section
             title="Sumberdem 1832 - Bubuk"
-            image="/static/images/kopi(2).png"
+            image="/static/images/kopi_2.png"
             desc="SUMBERDEM 1832 adalah merek produk kampoeng kopi Sumberdem yang berasal dari lereng gunung Kawi dengan ketingian 650-850 MDPL yang diproses dengan semi tradisional mengunakan bahan bakar kayu sehingga menghasilkan aroma dan citarasa yang khas dan alami. 1832 diambil dari pendataan kopi pertama kali di kabupaten Malang oleh pemerintah Hindia-Belanda, pada masa gubernur jendral VAN DEN BOSCH yang melakukan pendataan afdeling kopi di area Malang lereng gunung Tengger-Semeru di sebelah timur dan Arjuno-Kawi di sebelah barat termasuk di area Sumberdem. Dimana peninggalan itu masih dilestarikan sampai saat ini."
             >
             <Box display="flex" justifyContent={{ base: 'center', md: 'flex-start' }} ml={30}>
@@ -112,7 +112,7 @@ export default function Page() {
             {/* Section Kedua (gambar di kanan) */}
             <Section
             title="Sumberdem 1832 - Roasted Bean"
-            image="/static/images/kopi(2).png" reverse
+            image="/static/images/kopi_2.png"
             desc="SUMBERDEM 1832 adalah merek produk kampoeng kopi Sumberdem yang berasal dari lereng gunung Kawi dengan ketingian 650-850 MDPL yang diproses dengan semi tradisional mengunakan bahan bakar kayu sehingga menghasilkan aroma dan citarasa yang khas dan alami. 1832 diambil dari pendataan kopi pertama kali di kabupaten Malang oleh pemerintah Hindia-Belanda, pada masa gubernur jendral VAN DEN BOSCH yang melakukan pendataan afdeling kopi di area Malang lereng gunung Tengger-Semeru di sebelah timur dan Arjuno-Kawi di sebelah barat termasuk di area Sumberdem. Dimana peninggalan itu masih dilestarikan sampai saat ini."
             >
             <Box display="flex" justifyContent={{ base: 'center', md: 'flex-start' }} ml={30}>
