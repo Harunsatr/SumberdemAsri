@@ -269,7 +269,6 @@ const HighlightsSection = () => {
             'ternak',
             'krpl',
             'rosella',
-            'krpl',
           ].map((value) => (
             <Tag
               key={value}

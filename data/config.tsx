@@ -19,7 +19,7 @@ const siteConfig = {
     links: [
       {
         id: 'pariwisata',
-        label: 'Berita',
+        label: 'Event',
         href: 'https://sumberdem-malangkab.desa.id/berita',
       },
       {
@@ -38,7 +38,7 @@ const siteConfig = {
         href: 'https://www.djalanin.com/destination/kampoeng-kopi-sumberdem',
       },
       {
-        label: 'Beranda',
+        label: 'Pemerintah Desa',
         href: 'https://sumberdem-malangkab.desa.id/',
         variant: 'solid',
         colorScheme: 'blue',
