@@ -4,8 +4,8 @@ export default {
     {
       name: 'Kampung Kopi',
       description: 'Sumberdem Asri',
-      avatar: '/static/images/KampungKopi.png',
-      imageSrc: '/static/images/KampungKopi.png', // gambar tambahan
+      avatar: '/static/images/awokopi.png',
+      imageSrc: '/static/images/awokopi.png', // gambar tambahan
         action: {
           href: '/kampung',
           label: 'Lihat Selengkapnya',
@@ -19,8 +19,8 @@ export default {
     {
       name: 'Kampung Lemon',
       description: 'Sumberdem Asri',
-      avatar: '/static/images/KampungLemon.png',
-      imageSrc: '/static/images/KampungLemon.png',
+      avatar: '/static/images/kmlemon.png',
+      imageSrc: '/static/images/kmlemon.png',
         action: {
           href: '/kampung',
           label: 'Lihat Selengkapnya',
