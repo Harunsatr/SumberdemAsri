@@ -83,7 +83,7 @@ export default function Page() {
             {/* Section Pertama */}
             <Section
                 title="Kampung Kopi"
-                image="/static/images/KampungKopi.png"
+                image="/static/images/awokopi.png"
                 desc="SUMBERDEM 1832 adalah merek produk kampoeng kopi Sumberdem yang berasal dari lereng gunung Kawi dengan ketingian 650-850 MDPL yang diproses dengan semi tradisional menggunakan bahan bakar kayu sehingga menghasilkan aroma dan citarasa yang khas dan alami. 1832 diambil dari pendataan kopi pertama kali di kabupaten Malang oleh pemerintah Hindia-Belanda, pada masa gubernur jendral VAN DEN BOSCH yang melakukan pendataan afdeling kopi di area Malang lereng gunung Tengger-Semeru di sebelah timur dan Arjuno-Kawi di sebelah barat termasuk di area Sumberdem. Dimana peninggalan itu masih dilestarikan sampai saat ini."
             />
 
