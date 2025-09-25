@@ -19,7 +19,7 @@ const siteConfig = {
     links: [
       {
         id: 'pariwisata',
-        label: 'Event',
+        label: 'Berita',
         href: 'https://sumberdem-malangkab.desa.id/berita',
       },
       {

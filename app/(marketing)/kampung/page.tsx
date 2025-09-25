@@ -179,61 +179,61 @@ export default function Page() {
                                 Berikut adalah produk unggulan dari Kampung Kopi Sumberdem.
                             </Text>
                             <Box display="flex" flexWrap="wrap" justifyContent="center" gap={8}>
-                                <Box>
+                                <Box width="250px" height="192px" overflow="hidden" borderRadius="16px" boxShadow="0 2px 16px #00b6f3" display="flex" alignItems="center" justifyContent="center">
                                     <Image
                                         src="/static/images/Koopi1.png"
                                         alt="Produk Unggulan"
-                                        width={250}
-                                        height={320}
+                                        width={1024}
+                                        height={789}
                                         style={{
+                                            width: '100%',
+                                            height: '100%',
+                                            objectFit: 'cover',
                                             borderRadius: 16,
-                                            boxShadow: '0 2px 16px #00b6f3',
-                                            objectFit: 'cover'
                                         }}
                                     />
-                                    {/* <Text mt={2} fontWeight={600} fontSize="1.1rem">Produk 1</Text> */}
                                 </Box>
-                                <Box>
+                                <Box width="250px" height="192px" overflow="hidden" borderRadius="16px" boxShadow="0 2px 16px #00b6f3" display="flex" alignItems="center" justifyContent="center">
                                     <Image
-                                        src="/static/images/Koopi2.png"
+                                        src="/static/images/kopi.png"
                                         alt="Kopi Bubuk SUMBERDEM 1832"
-                                        width={250}
-                                        height={320}
+                                        width={1024}
+                                        height={789}
                                         style={{
+                                            width: '100%',
+                                            height: '100%',
+                                            objectFit: 'cover',
                                             borderRadius: 16,
-                                            boxShadow: '0 2px 16px #00b6f3',
-                                            objectFit: 'cover'
                                         }}
                                     />
-                                    {/* <Text mt={2} fontWeight={600} fontSize="1.1rem">Produk 2</Text> */}
                                 </Box>
-                                <Box>
+                                <Box width="250px" height="192px" overflow="hidden" borderRadius="16px" boxShadow="0 2px 16px #00b6f3" display="flex" alignItems="center" justifyContent="center">
                                     <Image
                                         src="/static/images/Koopi3.png"
                                         alt="Roasted Bean SUMBERDEM 1832"
-                                        width={250}
-                                        height={320}
+                                        width={1024}
+                                        height={789}
                                         style={{
+                                            width: '100%',
+                                            height: '100%',
+                                            objectFit: 'cover',
                                             borderRadius: 16,
-                                            boxShadow: '0 2px 16px #00b6f3',
-                                            objectFit: 'cover'
                                         }}
                                     />
-                                    {/* <Text mt={2} fontWeight={600} fontSize="1.1rem">Produk 3</Text> */}
                                 </Box>
-                                <Box>
+                                <Box width="250px" height="192px" overflow="hidden" borderRadius="16px" boxShadow="0 2px 16px #00b6f3" display="flex" alignItems="center" justifyContent="center">
                                     <Image
-                                        src="/static/images/Koopi4.png"
+                                        src="/static/images/baru.png"
                                         alt="Produk Unggulan"
-                                        width={250}
-                                        height={320}
+                                        width={1024}
+                                        height={789}
                                         style={{
+                                            width: '100%',
+                                            height: '100%',
+                                            objectFit: 'cover',
                                             borderRadius: 16,
-                                            boxShadow: '0 2px 16px #00b6f3',
-                                            objectFit: 'cover'
                                         }}
                                     />
-                                    {/* <Text mt={2} fontWeight={600} fontSize="1.1rem">Produk 4</Text> */}
                                 </Box>
                             </Box>
                         </Box>
@@ -252,47 +252,47 @@ export default function Page() {
                                 Berikut adalah produk unggulan dari Kampung Lemon Sumberdem.
                             </Text>
                             <Box display="flex" flexWrap="wrap" justifyContent="center" gap={8}>
-                                <Box>
+                                <Box width="250px" height="320px" overflow="hidden" borderRadius="16px" boxShadow="0 2px 16px #00b6f3" display="flex" alignItems="center" justifyContent="center">
                                     <Image
                                         src="/static/images/serbuk.jpg"
                                         alt="Lemon Segar"
-                                        width={250}
-                                        height={320}
+                                        width={2023}
+                                        height={1550}
                                         style={{
+                                            width: '100%',
+                                            height: '100%',
+                                            objectFit: 'cover',
                                             borderRadius: 16,
-                                            boxShadow: '0 2px 16px #00b6f3',
-                                            objectFit: 'cover'
                                         }}
                                     />
-                                    <Text mt={2} fontWeight={600} fontSize="1.1rem">Lemona - Lemon Serbuk</Text>
                                 </Box>
-                                <Box>
-                                    <Image
-                                        src="/static/images/produklemon.jpg"
-                                        alt="Selada Air"
-                                        width={250}
-                                        height={320}
-                                        style={{
-                                            borderRadius: 16,
-                                            boxShadow: '0 2px 16px #00b6f3',
-                                            objectFit: 'cover'
-                                        }}
-                                    />
-                                    <Text mt={2} fontWeight={600} fontSize="1.1rem">Lemona - Lemon</Text>
-                                </Box>
-                                <Box>
+                                <Box width="250px" height="320px" overflow="hidden" borderRadius="16px" boxShadow="0 2px 16px #00b6f3" display="flex" alignItems="center" justifyContent="center">
                                     <Image
                                         src="/static/images/lemonkering.jpg"
-                                        alt="Paket Lemon & Selada"
-                                        width={250}
-                                        height={320}
+                                        alt="Selada Air"
+                                        width={2023}
+                                        height={1550}
                                         style={{
+                                            width: '100%',
+                                            height: '100%',
+                                            objectFit: 'cover',
                                             borderRadius: 16,
-                                            boxShadow: '0 2px 16px #00b6f3',
-                                            objectFit: 'cover'
                                         }}
                                     />
-                                    <Text mt={2} fontWeight={600} fontSize="1.1rem">Lemona - Lemon Kering</Text>
+                                </Box>
+                                <Box width="250px" height="320px" overflow="hidden" borderRadius="16px" boxShadow="0 2px 16px #00b6f3" display="flex" alignItems="center" justifyContent="center">
+                                    <Image
+                                        src="/static/images/serbuk.jpg"
+                                        alt="Paket Lemon & Selada"
+                                        width={2023}
+                                        height={1550}
+                                        style={{
+                                            width: '100%',
+                                            height: '100%',
+                                            objectFit: 'cover',
+                                            borderRadius: 16,
+                                        }}
+                                    />
                                 </Box>
                             </Box>
                         </Box>
